@@ -6,6 +6,6 @@ if(wynikRownania > 0)  {
  	console.log('Wynik równania jest liczbą dodatnią.')
 } else if(wynikRownania < 0) {
 	console.log('Wynik równania jest liczbą ujemną.') 
-} else if(wynikRownania == 0)  {
+} else {
  alert('Wynik równania jest równy zero')
 }
